@@ -1,6 +1,6 @@
-# GOAT Client Downloads
+# GOAT Autopilot Client Downloads
 
-# Download the latest version of GOAT Client from the [Releases](https://github.com/ramezgaberiel/goat-client-releases/releases) page.
+# Download the latest version of GOAT Autopilot Client from the [Releases](https://github.com/ramezgaberiel/goat-autopilot-releases/releases) page.
 
 ## Installation
 1. Download the latest installer
@@ -9,4 +9,3 @@
 
 ## Support
 For support, visit [goat-algo.net](https://goat-algo.net)
-"
